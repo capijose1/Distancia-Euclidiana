@@ -1,0 +1,5 @@
+C:/Users/Mineria/source/repos/Distancia Euclidiana/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Mineria/source/repos/Distancia Euclidiana/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Mineria/source/repos/Distancia Euclidiana/out/build/x64-Debug/Distancia Euclidiana/CMakeFiles/CMakeTarget.dir
+C:/Users/Mineria/source/repos/Distancia Euclidiana/out/build/x64-Debug/Distancia Euclidiana/CMakeFiles/edit_cache.dir
+C:/Users/Mineria/source/repos/Distancia Euclidiana/out/build/x64-Debug/Distancia Euclidiana/CMakeFiles/rebuild_cache.dir
