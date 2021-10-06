@@ -6,6 +6,8 @@
 #include <iostream>
 #include <random>
 #include <math.h>
+#include <iomanip>
+#include <chrono>
 using namespace std;
 
 int dimensiones[6] = { 2,5,10,15,20,25 };
